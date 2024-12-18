@@ -1,0 +1,192 @@
+[
+    {
+        "id": "001",
+        "animeName": "one piece",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp13626296.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "For Background",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "animeName": "sword art online",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp13013380.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp14544815.jpg",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "animeName": "solo leveling",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp4275387.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp4275382.png",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "animeName": "black clover",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp2255622.png",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp14215886.jpg",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "animeName": "mob psycho 100",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp1959335.png",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp1959413.png",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "animeName": "demon slayers",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp4445439.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp13280054.png",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "animeName": "haikyu!!",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp1818270.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp1818273.png",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "008",
+        "animeName": "jujutsu kaisen",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp8188299.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp13657124.jpg",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "009",
+        "animeName": "one punch man",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp14669448.jpg",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp13738954.jpg",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    },
+    {
+        "id": "010",
+        "animeName": "spy x family",
+        "description": "",
+        "ratings": 1000,
+        "genres": ["action", "commedy"],
+        "images": [
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp7868531.png",
+                "width": 600,
+                "height": 600
+            },
+            {
+                "imageUrl": "https://wallpapercave.com/wp/wp7868561.jpg",
+                "width": 600,
+                "height": 600
+            }
+        ]
+    }
+]
