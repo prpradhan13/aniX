@@ -11,7 +11,7 @@ const TabsLayout = () => {
         tabBarActiveTintColor: "#FF3B30",
         tabBarInactiveTintColor: 'gray',
         // tabBarBadge: 5,
-        tabBarStyle: { backgroundColor: 'black' },
+        tabBarStyle: { backgroundColor: '#1A1A1A', shadowColor: "transparent" },
       }}
     >
       <Tabs.Screen 
@@ -19,14 +19,14 @@ const TabsLayout = () => {
         options={{
           tabBarLabel: "Home",
           tabBarIcon: ({ color }) => (
-            <MaterialIcons name="home-max" size={33} color={color} />
+            <MaterialIcons name="home-max" size={30} color={color} />
           ),
         }}
       />
       <Tabs.Screen 
         name="search"
         options={{
-          tabBarIcon: ({ color }) => <MaterialIcons name="location-searching" size={28} color={color} />
+          tabBarIcon: ({ color }) => <MaterialIcons name="location-searching" size={26} color={color} />
         }} 
       />
     </Tabs>
