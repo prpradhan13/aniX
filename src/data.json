@@ -1,29 +1,25 @@
 [
     {
-        "id": "001",
+        "_id": "001",
         "animeName": "one piece",
         "description": "",
-        "ratings": 1000,
-        "genres": ["action", "commedy"],
+        "ratings": 4.8,
+        "genres": ["action", "commedy", "drama"],
         "images": [
             {
-                "imageUrl": "https://www.dropbox.com/scl/fi/2gwhfqghths02ibtbo9vd/wp13626296.jpg?rlkey=t8sbvviut2f317h16diorjw5x&raw=1",
-                "width": 600,
-                "height": 600
+                "imageUrl": "https://www.dropbox.com/scl/fi/2gwhfqghths02ibtbo9vd/wp13626296.jpg?rlkey=t8sbvviut2f317h16diorjw5x&raw=1"
             },
             {
-                "imageUrl": "https://www.dropbox.com/scl/fi/k4uzh83myskv0elraaoib/wp13657124.jpg?rlkey=ak3kewfpbxs6q3cqfosiq2jhb&raw=1",
-                "width": 600,
-                "height": 600
+                "imageUrl": "https://www.dropbox.com/scl/fi/k4uzh83myskv0elraaoib/wp13657124.jpg?rlkey=ak3kewfpbxs6q3cqfosiq2jhb&raw=1"
             }
         ]
     },
     {
-        "id": "002",
+        "_id": "002",
         "animeName": "sword art online",
         "description": "",
-        "ratings": 1000,
-        "genres": ["action", "commedy"],
+        "ratings": 4.5,
+        "genres": ["thriller", "drama"],
         "images": [
             {
                 "imageUrl": "https://www.dropbox.com/scl/fi/5ilprd3q0sgpcnykz9kr6/wp13013380.jpg?rlkey=wkpjykbq17hjpixsh02zvi8ef&raw=1",
@@ -38,10 +34,10 @@
         ]
     },
     {
-        "id": "003",
+        "_id": "003",
         "animeName": "solo leveling",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -57,10 +53,10 @@
         ]
     },
     {
-        "id": "004",
+        "_id": "004",
         "animeName": "black clover",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4.3,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -76,10 +72,10 @@
         ]
     },
     {
-        "id": "005",
+        "_id": "005",
         "animeName": "mob psycho 100",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -95,10 +91,10 @@
         ]
     },
     {
-        "id": "006",
+        "_id": "006",
         "animeName": "demon slayers",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4.2,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -114,10 +110,10 @@
         ]
     },
     {
-        "id": "007",
+        "_id": "007",
         "animeName": "haikyu!!",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4.5,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -133,10 +129,10 @@
         ]
     },
     {
-        "id": "008",
+        "_id": "008",
         "animeName": "jujutsu kaisen",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4.4,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -152,10 +148,10 @@
         ]
     },
     {
-        "id": "009",
+        "_id": "009",
         "animeName": "one punch man",
         "description": "",
-        "ratings": 1000,
+        "ratings": 4.8,
         "genres": ["action", "commedy"],
         "images": [
             {
@@ -171,10 +167,10 @@
         ]
     },
     {
-        "id": "010",
+        "_id": "010",
         "animeName": "spy x family",
         "description": "",
-        "ratings": 1000,
+        "ratings": 5,
         "genres": ["action", "commedy"],
         "images": [
             {

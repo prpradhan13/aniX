@@ -1,6 +1,5 @@
-import { StyleSheet, Text, View } from "react-native";
 import React from "react";
-import { Stack, Tabs } from "expo-router";
+import { Tabs } from "expo-router";
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 
 const TabsLayout = () => {
@@ -26,7 +25,15 @@ const TabsLayout = () => {
       <Tabs.Screen 
         name="search"
         options={{
-          tabBarIcon: ({ color }) => <MaterialIcons name="location-searching" size={26} color={color} />
+          tabBarLabel: "Search",
+          tabBarIcon: ({ color }) => <MaterialIcons name="search" size={28} color={color} />
+        }} 
+      />
+      <Tabs.Screen 
+        name="viewAll"
+        options={{
+          tabBarLabel: "All",
+          tabBarIcon: ({ color }) => <MaterialIcons name="format-list-bulleted" size={24} color={color} />
         }} 
       />
     </Tabs>
