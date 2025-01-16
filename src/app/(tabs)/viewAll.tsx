@@ -9,7 +9,6 @@ const viewAll = () => {
   const popularAnime = DATA.filter((item) => item.ratings > 4.5);
   const allGenres = [...new Set(DATA.flatMap(item => item.genres))];
   
-
   return (
     <SafeAreaView className='flex-1 bg-MainBackground pt-5'>
       <ListCard listTitle='Trendy' dataList={popularAnime} />
